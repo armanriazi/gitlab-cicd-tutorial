@@ -1,5 +1,5 @@
 # gitlab-cicd-tutorial
-
+mow
 youtube:  
 https://www.youtube.com/watch?v=34u4wbeEYEo&list=PLaFCDlD-mVOlnL0f9rl3jyOHNdHU--vlJ
 
